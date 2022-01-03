@@ -9,7 +9,7 @@ I try  to curate this as a classic awesome list. However, at some points I will 
 Having the proper tools at hand is a crucial part of leading people. By tools, I generally mean methods you can use in moderating, meetings, 1:1s and others that help you gain information, identify necessary actions, prioritize and track tasks. This is important especially in less hierarchical environments where you want your team to equally contribute to mutual success.
 
 Just let me hint you to the most important method you have at your disposal (in my opinion): **Retrospectives** \
-Retros, if done right, give you essential insights into what works and what doesn't in your team and help you to identify ways to improve. So I strongly recommend, you dive deep into how to do retros properly and effectively and what tools you can use. Nearly all of the tools I list here are valuable in retrospectives. 
+Retros, if done right, give you essential insights into what works and what doesn't in your team and help you to identify ways to improve. So I strongly recommend, you dive deep into how to do retros properly and effectively and what tools you can use. Nearly all of the tools I list here are valuable in retrospectives. I go into more depth about retros [here](content/retrospectives.md).
 
 I am categorizing here according to "The decision book" (see below) as this is a neat categorization to me. However, some methods don't only fit in one category (e.g., you can use a SWOT analysis in multiple settings).
 
@@ -20,37 +20,37 @@ Methods in this category are useful to identify goals and challenges, structure 
 ### The Eisenhower matrix
 The classic tool of prioritizing tasks. It helps you to find out what to do with a specific task at hand. For that, you assess its importance and its urgency. This results in a 2D plot that you can divide into quadrants.
 
-![](../figures/eisenhower.png)
-
-<img src="figures/img/eisenhower.png" alt="Eisenhower Matrix" style="height: 100px; width:100px;"/>
+![](figures/eisenhower.png)
 
 
-The bottom left quadrant is tasks that are neither important nor urgent - those go straight into the trash (Don't do). Tasks on the bottom 
+The bottom left quadrant is tasks that are neither important nor urgent - those can either go straight into the trash (Don't do) or be delayed until they become either urgent or important. Tasks on the bottom right are urgent but not important - those can easily be delegated. The top left has tasks that are important but not urgent - make a commitment for those to do them at a certain point in future. Finally, the top right tasks are urgent and important -  make them your current prio one and do them immediately. 
 
 ### SWOT analysis
 
 ### Goals: SMART, PURE, CLEAR
-Goals are an essential leadership tool (and of course also a self-improvement tool). However, we tend to formulate goals too fuzzy to be effective. Here are three assessment criteria for effective goals.
+Goals are an essential leadership tool (and of course also a self-improvement tool). However, we tend to formulate goals too fuzzy to be effective. Here are three sets of assessment criteria for effective goals.
 
 *SMART*
-  - **S**pecific
-  - **M**easurable
-  - **A**ttainable
-  - **R**ealistic
-  - **T**ime-phased
+  - **S**pecific: If you agree on a goal, leave no room for interpretation
+  - **M**easurable: Find meaningful ways to measure your success
+  - **A**ttainable: If it can not be achieved, what good is this goal? Also often called "Agreed" at this point but we have that below at CLEAR
+  - **R**ealistic: Even if it is attainable, it can still be an unrealistically high goal within an unrealistic timeframe
+  - **T**ime-phased: Set clear timelines for a goal to be achieved, otherwise it will be postponed indefinetly
 
 *PURE*
-  - **P**ositively formulated
-  - **U**nderstood
-  - **R**elevant
-  - **E**thical
+  - **P**ositively formulated: A positive formulation increases motivation to reach it. Use "I will reduce bugs by 50% instead of "My code will be less buggy"
+  - **U**nderstood: Make sure the goal is clear to everyone involved.
+  - **R**elevant: If your goal does not connect to what you want to achieve, it is not relevant. Often seen in politics.
+  - **E**thical: Of course this is to a certain degree subjective, but make sure that a goal is based on shared values and does not conflict with someone's values. 
 
 *CLEAR*
-  - **C**hallenging
-  - **L**egal
-  - **E**nvironmentally sound
-  - **A**greed
-  - **R**ecorded
+  - **C**hallenging: If it is too easy to reach, it is not a motivating goal (but also see realistic and attainable above)
+  - **L**egal: Well....yes
+  - **E**nvironmentally sound: Does it make sense in the context of our working environment? Am I actually able to achieve it in our work environment? Also consider the actual environment in your company goals...
+  - **A**greed: All stakeholders of a goal must agree to it (not only the ones tasked with achieving it.)
+  - **R**ecorded: Write it down so that in future, you have something to reference. Make sure that all stakeholders have access to a copy of it.
+
+  For some more explanation look [here](http://www.theagileleader.co.uk/blog/goal-setting-are-your-goals-smart-pure-and-clear/)
 
 ## Understanding myself
 
