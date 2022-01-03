@@ -18,11 +18,36 @@ I am categorizing here according to "The decision book" (see below) as this is a
 Methods in this category are useful to identify goals and challenges, structure ideas and information in oneselves daily work.
 
 ### The Eisenhower matrix
-The classic
+The classic tool of prioritizing tasks. It helps you to find out what to do with a specific task at hand. For that, you assess its importance and its urgency. This results in a 2D plot that you can divide into quadrants.
+
+![Eisenhower Matrix](figures/eisenhower.png "The Eisenhower Matrix")
+<img title="a title" alt="Alt text" src="/figures/eisenhower.png">
+The bottom left quadrant is tasks that are neither important nor urgent - those go straight into the trash (Don't do). Tasks on the bottom 
 
 ### SWOT analysis
 
 ### Goals: SMART, PURE, CLEAR
+Goals are an essential leadership tool (and of course also a self-improvement tool). However, we tend to formulate goals too fuzzy to be effective. Here are three assessment criteria for effective goals.
+
+*SMART*
+  - **S**pecific
+  - **M**easurable
+  - **A**ttainable
+  - **R**ealistic
+  - **T**ime-phased
+
+*PURE*
+  - **P**ositively formulated
+  - **U**nderstood
+  - **R**elevant
+  - **E**thical
+
+*CLEAR*
+  - **C**hallenging
+  - **L**egal
+  - **E**nvironmentally sound
+  - **A**greed
+  - **R**ecorded
 
 ## Understanding myself
 
@@ -33,17 +58,37 @@ Methods in here are used to gather insights to a team or group of people and the
 ### The team canvas
 
 ### Sailboat / Speedboat and friends
-This one has many other names. Essentially, this method is used to **identify aspects** of your (team) work, **that help or** others that **hinder you or your team**.
+This one has many other names. Essentially, this data collection method is used to **identify aspects** of your (team) work, **that help or** others that **hinder** you or your team in their daily work.\
+I use this as an essential part of retrospectives, it is easy to remember and moderate and yields very good results also in teams where you are just starting to establish a feedback culture. \
+The metaphor used here is that we are a boat and our goal is to go as fast as possible. Thus we make use of winds that speed us up but we also have to deal with the anchors that slow us down. 
+
+**How to**\
+On a flipchart (or other shared space), draw a water surface (e.g., some blue waves) in the middle and a boat on it.\
+Instruct your team to add two types of post-its (the more the better): anchor post-its below the water symbolize things that make you slower. Wind post-its above the water line symbolize things that make you faster.\
+
+You can give the team 5-10 minutes to add items. After that, you should go through them and discuss them if necessary.\
+After speedboat, you have a nice dataset that you can then (with other methods) prioritize to then deduct action items. 
+
+As an extension, you can also have multiple levels of wind or anchor (strongest wind at the top, mid-wind near the water, small anchors right below the water line and heavy anchors at the bottom). This results in a first hint in the prioritization. 
+
+**See also**\
+[Coresponding retromat entry](https://retromat.org/en/?id=19)
 
 ### Belbin team roles
+Each team has its own dynamics that also change with every new member in the team. Everyone of us naturally takes a specific role in the team in terms of behaviour and functions. Meredith Belbin has invested several decades into researching the optimal combination of characters to form a perfect, high-performing team.\
+Currently, the Belbin team role model defines nine core roles that people take over. 
 
 ## Improving others
 
+### De Bono Hats
+
 ## Tool resources
-retromat...
+retromat, funretrospectives\
+[openpracticelibrary](https://openpracticelibrary.com/)
 
 # Literature
-In the following section, book cites are provided with links to detailed descriptions.
+In the following section, book cites are provided with links to detailed descriptions.\
+For the books in German language, I try to provide corresponding English literature and also hint to English references and explain some conclusions in more detail. 
 
 ## Leadership softskills
 
@@ -84,7 +129,7 @@ Putting a critical view on the own doing is a core ability for evolving in any k
 
 ### [Weizenbaum, Joseph. *Computer power and human reason: From judgment to calculation.* (1976).](books/weizenbaum1976computerpower.md)
 
-Joseph Weizenbaum developed the Eliza chat system. In course of its evaluation, 
+Joseph Weizenbaum developed the Eliza chat system. In course of its evaluation, he made some shocking discoverings on how people thought, this software could be used. From those experiences, he grew to become a very famous technology critic pledging for more impact assessments of technology. 
 
 
 # Media
