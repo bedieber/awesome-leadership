@@ -20,8 +20,11 @@ Methods in this category are useful to identify goals and challenges, structure 
 ### The Eisenhower matrix
 The classic tool of prioritizing tasks. It helps you to find out what to do with a specific task at hand. For that, you assess its importance and its urgency. This results in a 2D plot that you can divide into quadrants.
 
-![Eisenhower Matrix](figures/eisenhower.png "The Eisenhower Matrix")
-<img title="a title" alt="Alt text" src="/figures/eisenhower.png">
+![](../figures/eisenhower.png)
+
+<img src="figures/img/eisenhower.png" alt="Eisenhower Matrix" style="height: 100px; width:100px;"/>
+
+
 The bottom left quadrant is tasks that are neither important nor urgent - those go straight into the trash (Don't do). Tasks on the bottom 
 
 ### SWOT analysis
