@@ -1,5 +1,5 @@
 # Introduction
-Leadership is a crucial element in succesful organizations.
+Leadership is a crucial element in successful organizations.
 I believe that a successful leader has both, knowledge and tools (along with some other critical factors). In this list, I want to provide links to literature, resources and methods that can be useful when leading others. The focus will be on modern leadership styles as well as the area of modern work as common in software engineering.
 I try  to curate this as a classic awesome list. However, at some points I will contribute more background and literature review so that you find what you are looking for quicker.
 
@@ -15,7 +15,7 @@ I am categorizing here according to "The decision book" (see below) as this is a
 
 ## Improving myself
 
-Methods in this category are useful to identify goals and challenges, structure ideas and information in oneselves daily work.
+Methods in this category are useful to identify goals and challenges, structure ideas and information in oneself's daily work.
 
 ### The Eisenhower matrix
 The classic tool of prioritizing tasks. It helps you to find out what to do with a specific task at hand. For that, you assess its importance and its urgency. This results in a 2D plot that you can divide into quadrants.
@@ -26,6 +26,7 @@ The classic tool of prioritizing tasks. It helps you to find out what to do with
 The bottom left quadrant is tasks that are neither important nor urgent - those can either go straight into the trash (Don't do) or be delayed until they become either urgent or important. Tasks on the bottom right are urgent but not important - those can easily be delegated. The top left has tasks that are important but not urgent - make a commitment for those to do them at a certain point in future. Finally, the top right tasks are urgent and important -  make them your current prio one and do them immediately. 
 
 ### SWOT analysis
+coming soon
 
 ### Goals: SMART, PURE, CLEAR
 Goals are an essential leadership tool (and of course also a self-improvement tool). However, we tend to formulate goals too fuzzy to be effective. Here are three sets of assessment criteria for effective goals.
@@ -59,6 +60,7 @@ Goals are an essential leadership tool (and of course also a self-improvement to
 Methods in here are used to gather insights to a team or group of people and their interworking. This includes finding friction or pain points, 
 
 ### The team canvas
+coming soon
 
 ### Sailboat / Speedboat and friends
 This one has many other names. Essentially, this data collection method is used to **identify aspects** of your (team) work, **that help or** others that **hinder** you or your team in their daily work.\
@@ -78,15 +80,45 @@ As an extension, you can also have multiple levels of wind or anchor (strongest 
 [Coresponding retromat entry](https://retromat.org/en/?id=19)
 
 ### Belbin team roles
-Each team has its own dynamics that also change with every new member in the team. Everyone of us naturally takes a specific role in the team in terms of behaviour and functions. Meredith Belbin has invested several decades into researching the optimal combination of characters to form a perfect, high-performing team.\
+Each team has its own dynamics that also change with every new member in the team. Everyone of us naturally takes a specific role in the team in terms of behavior and functions. Meredith Belbin has invested several decades into researching the optimal combination of characters to form a perfect, high-performing team.\
 Currently, the Belbin team role model defines nine core roles that people take over. 
 
+### The team barometer
+
+*Variation: The role barometer*
+
 ## Improving others
+This contains more action- and team-focused activities. However, there are also some general feedback techniques collected.
 
 ### De Bono Hats
+coming soon
+
+### Build your own *role* (team lead, product owner, boss, leader, ...)
+coming soon
+
+### Show more of, show less of, keep doing
+coming soon
+
+### Situation-dependent leadership
+This is another quadrant plot. In this case, this tells you what type of lead you need to be for a certain colleague and a certain task. This is a handy tool since it does not align a leadership style according to the leader but according to the staff.\
+You want to look at the dimensions of skill (of your colleague wrt. the task at hand) and her/his dedication (may be very enthusiastic or less so, also dependent on the individual drive of that person). It is important to not over-instruct well-skilled and motivated persons while some others need more support or encouragement.
+
+![](figures/leadsituational.png)
+
+If the skill as well as the dedication for the task are low (bottom left), you should give more detailed instructions and directions. You may also consider assigning the task to someone else.
+
+If the skill is low but the dedication is high (top left), this colleague may be able to learn faster and will require you to support and coach.
+
+If the skill is high but the dedication is low (bottom right), you need to show more participation in the task, make clear that the person is responsible and give impulses to incentivize.
+
+In the lucky situation that you have a very skilled person who burns for the task, then fully delegate and give them responsibility and also reward for it.
+
 
 ## Tool resources
-retromat, funretrospectives\
+[retromat](https://retromat.org)
+
+[funretrospectives](https://www.funretrospectives.com/)
+
 [openpracticelibrary](https://openpracticelibrary.com/)
 
 # Literature
@@ -100,7 +132,7 @@ For the books in German language, I try to provide corresponding English literat
 ### [Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](books/aschenbrenner2020theboss.md)
 
 
-### [Sinek, Simon *Leaders eat last: Why some teams pull together and others don't*. Pengui (2014).](books/sinek2014leaderseatlast.md)
+### [Sinek, Simon *Leaders eat last: Why some teams pull together and others don't*. Penguin (2014).](books/sinek2014leaderseatlast.md)
 
 
 ## Books on leadership tools
@@ -147,4 +179,4 @@ Simon Sinek's [video version](https://www.youtube.com/watch?v=ReRcHdeUG9Y) of th
 
 Here is a [video version](https://www.youtube.com/watch?v=_osKgFwKoDQ) of the "Infinity game", a follow-up work of his.
 
-[Ship building](https://www.youtube.com/watch?app=desktop&v=iIc9ttGurUo&feature=youtu.be)
+[Ship building](https://www.youtube.com/watch?app=desktop&v=iIc9ttGurUo&feature=youtu.be) is a very nice activity for your team or other group of people to visualize and experience how flow of work in a system can change with the rules in the system. Klaus Leopold has moderated this session, it also gives enough background for you to try it out with your team. You will learn that work-in-progress limits and other simple rules greatly improve your value delivery. 
