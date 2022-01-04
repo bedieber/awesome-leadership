@@ -1,3 +1,5 @@
+    This is very much work in progress as of Jan2022
+
 # Introduction
 Leadership is a crucial element in successful organizations.
 I believe that a successful leader has both, knowledge and tools (along with some other critical factors). In this list, I want to provide links to literature, resources and methods that can be useful when leading others. The focus will be on modern leadership styles as well as the area of modern work as common in software engineering.
