@@ -55,6 +55,12 @@ Goals are an essential leadership tool (and of course also a self-improvement to
 
 ## Understanding myself
 
+### The Dunning-Krueger effect
+This is not really a tool but it is worthwile knowing about. This effect describes a cognitive bias where people with lower ability in a certain field overestimate their performance or ability. In practice, you can see that whenever someone starts learning about a topic and very soon thinks he/she is already an expert and speaks very confidently about the topic and might already also convince you of their expertise.
+
+In a leadership role, this can often happen to you in job interviews where you have to judge the skill level of someone. So be aware that in some cases you have to doubt a confident person a bit and ask deeper to uncover true expertise in a topic. Be aware that this person is not trying to trick you but it is a misconception of their own skills. This also does not mean that this person is a no-hire. You just need to be aware that some additional personal and skill development will be required.
+
+Be aware that Dunning-Krueger also affects you (also in learning leadership). Honest self-reflection and getting feedback from others helps a lot here.
 
 ## Understanding others
 Methods in here are used to gather insights to a team or group of people and their interworking. This includes finding friction or pain points, 
