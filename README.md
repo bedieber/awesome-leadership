@@ -89,9 +89,21 @@ As an extension, you can also have multiple levels of wind or anchor (strongest 
 Each team has its own dynamics that also change with every new member in the team. Everyone of us naturally takes a specific role in the team in terms of behavior and functions. Meredith Belbin has invested several decades into researching the optimal combination of characters to form a perfect, high-performing team.\
 Currently, the Belbin team role model defines nine core roles that people take over. 
 
-### The team barometer
+### The team thermometer / barometer
+This is a very simple technique to quickly get a feeling for the team mood.\
+On a flipchart, draw a temperature scale from cold (everything is cool) to hot (I am mad) and ask each participant to mark their temperature level. From the accumulations of marks, you can quickly judge how it is going.
+
+There is a similar technique with a barometer (from flying low to flying high) or with a weather report (draw a sun or clouds or rain or thunderstorm).
+
+For in-person meetings, I prefer to use "Take a stand" where participants do not draw, but you use the whole room as scale and people have to stand up and go to the corresponding spot in the room. This works as a nice energizer e.g., to start a retrospective or to get people moving in a lame meeting.
 
 *Variation: The role barometer*
+
+**see also:**\
+[Retromat entry for "Temperature gauge"](https://retromat.org/en/?id=22)\
+[Retromat entry for "Take a stand"](https://retromat.org/en/?id=43)\
+[Retromat entry for "Weather report"](https://retromat.org/en/?id=2)
+
 
 ## Improving others
 This contains more action- and team-focused activities. However, there are also some general feedback techniques collected.
