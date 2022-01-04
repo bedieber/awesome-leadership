@@ -99,6 +99,7 @@ There is a similar technique with a barometer (from flying low to flying high) o
 For in-person meetings, I prefer to use "Take a stand" where participants do not draw, but you use the whole room as scale and people have to stand up and go to the corresponding spot in the room. This works as a nice energizer e.g., to start a retrospective or to get people moving in a lame meeting.
 
 *Variation: The role barometer*
+You can use the same method to make a quick checkin on how the team sees a certain person performing a role. E.g., make a quick team lead barometer to see if they are happy with your team lead function. This can be done regularily within retrospectives. If there are clusters on the mid-low end, you should employ a dedicated feedback method to find out where you can improve.
 
 **see also:**\
 [Retromat entry for "Temperature gauge"](https://retromat.org/en/?id=22)\
