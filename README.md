@@ -172,6 +172,7 @@ Joseph Weizenbaum developed the Eliza chat system. In course of its evaluation, 
 Luke Hohmann on [innovation games](https://www.infoq.com/presentations/innovation-games/). See the associated book above. He talks about some of the games and a great story how this works even at the scale of a whole city.
 
 ## Klaus Leopold and business agility
+[Ship building](https://www.youtube.com/watch?app=desktop&v=iIc9ttGurUo&feature=youtu.be) is a very nice activity for your team or other group of people to visualize and experience how flow of work in a system can change with the rules in the system. Klaus Leopold has moderated this session, it also gives enough background for you to try it out with your team. You will learn that work-in-progress limits and other simple rules greatly improve your value delivery. 
 
 ## Leadership by Simon Sinek 
 ### Leaders eat last
@@ -179,4 +180,3 @@ Simon Sinek's [video version](https://www.youtube.com/watch?v=ReRcHdeUG9Y) of th
 
 Here is a [video version](https://www.youtube.com/watch?v=_osKgFwKoDQ) of the "Infinity game", a follow-up work of his.
 
-[Ship building](https://www.youtube.com/watch?app=desktop&v=iIc9ttGurUo&feature=youtu.be) is a very nice activity for your team or other group of people to visualize and experience how flow of work in a system can change with the rules in the system. Klaus Leopold has moderated this session, it also gives enough background for you to try it out with your team. You will learn that work-in-progress limits and other simple rules greatly improve your value delivery. 
