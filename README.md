@@ -1,5 +1,42 @@
     This is very much work in progress as of Jan2022
 
+- [Introduction](#introduction)
+- [Methods and tools](#methods-and-tools)
+  - [Improving myself](#improving-myself)
+    - [The Eisenhower matrix](#the-eisenhower-matrix)
+    - [SWOT analysis](#swot-analysis)
+    - [Goals: SMART, PURE, CLEAR](#goals-smart-pure-clear)
+  - [Understanding myself](#understanding-myself)
+    - [The Dunning-Krueger effect](#the-dunning-krueger-effect)
+  - [Understanding others](#understanding-others)
+    - [The team canvas](#the-team-canvas)
+    - [Sailboat / Speedboat and friends](#sailboat--speedboat-and-friends)
+    - [Belbin team roles](#belbin-team-roles)
+    - [The team thermometer / barometer](#the-team-thermometer--barometer)
+  - [Improving others](#improving-others)
+    - [De Bono Hats](#de-bono-hats)
+    - [Build your own *role* (team lead, product owner, boss, leader, ...)](#build-your-own-role-team-lead-product-owner-boss-leader-)
+    - [Show more of, show less of, keep doing](#show-more-of-show-less-of-keep-doing)
+    - [Situation-dependent leadership](#situation-dependent-leadership)
+  - [Tool resources](#tool-resources)
+- [Literature](#literature)
+  - [Leadership softskills](#leadership-softskills)
+  - [(German) Jenewein, Wolfgang. *Warum unsere Chefs plötzlich so nett zu uns sind*. Ecowin (2018).](#german-jenewein-wolfgang-warum-unsere-chefs-plötzlich-so-nett-zu-uns-sind-ecowin-2018)
+    - [Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](#aschenbrenner-peter-the-boss---von-bruce-springsteen-führungsstärke-lernen-wiley-2020)
+    - [Sinek, Simon *Leaders eat last: Why some teams pull together and others don't*. Penguin (2014).](#sinek-simon-leaders-eat-last-why-some-teams-pull-together-and-others-dont-penguin-2014)
+  - [Books on leadership tools](#books-on-leadership-tools)
+    - [Krogerus & Tschäpeller](#krogerus--tschäpeller)
+    - [Meyer, Erin. *The culture map: Breaking through the invisible boundaries of global business*. Public Affairs, 2014.](#meyer-erin-the-culture-map-breaking-through-the-invisible-boundaries-of-global-business-public-affairs-2014)
+    - [Hohmann, Luke. *Innovation games: creating breakthrough products through collaborative play*. Pearson Education, 2006.](#hohmann-luke-innovation-games-creating-breakthrough-products-through-collaborative-play-pearson-education-2006)
+    - [(German) Steyrer, Johannes. *Die Macht der Manipulation - Wie man sich durchsetzt, wie man sich schützt*. Ecowin (2018).](#german-steyrer-johannes-die-macht-der-manipulation---wie-man-sich-durchsetzt-wie-man-sich-schützt-ecowin-2018)
+    - [Lipmanowicz, Henri, and Keith McCandless. *The surprising power of liberating structures: Simple rules to unleash a culture of innovation.* Seattle, WA: Liberating Structures Press, 2013.](#lipmanowicz-henri-and-keith-mccandless-the-surprising-power-of-liberating-structures-simple-rules-to-unleash-a-culture-of-innovation-seattle-wa-liberating-structures-press-2013)
+  - [Some worthwile perspectives for (not only) leaders in (not only) technology](#some-worthwile-perspectives-for-not-only-leaders-in-not-only-technology)
+    - [Weizenbaum, Joseph. *Computer power and human reason: From judgment to calculation.* (1976).](#weizenbaum-joseph-computer-power-and-human-reason-from-judgment-to-calculation-1976)
+- [Media](#media)
+  - [Klaus Leopold and business agility](#klaus-leopold-and-business-agility)
+  - [Leadership by Simon Sinek](#leadership-by-simon-sinek)
+    - [Leaders eat last](#leaders-eat-last)
+
 # Introduction
 Leadership is a crucial element in successful organizations.
 I believe that a successful leader has both, knowledge and tools (along with some other critical factors). In this list, I want to provide links to literature, resources and methods that can be useful when leading others. The focus will be on modern leadership styles as well as the area of modern work as common in software engineering.
@@ -24,7 +61,6 @@ The classic tool of prioritizing tasks. It helps you to find out what to do with
 
 ![](figures/eisenhower.png)
 
-
 The bottom left quadrant is tasks that are neither important nor urgent - those can either go straight into the trash (Don't do) or be delayed until they become either urgent or important. Tasks on the bottom right are urgent but not important - those can easily be delegated. The top left has tasks that are important but not urgent - make a commitment for those to do them at a certain point in future. Finally, the top right tasks are urgent and important -  make them your current prio one and do them immediately. 
 
 ### SWOT analysis
@@ -38,7 +74,7 @@ Goals are an essential leadership tool (and of course also a self-improvement to
   - **M**easurable: Find meaningful ways to measure your success
   - **A**ttainable: If it can not be achieved, what good is this goal? Also often called "Agreed" at this point but we have that below at CLEAR
   - **R**ealistic: Even if it is attainable, it can still be an unrealistically high goal within an unrealistic timeframe
-  - **T**ime-phased: Set clear timelines for a goal to be achieved, otherwise it will be postponed indefinetly
+  - **T**ime-phased: Set clear timelines for a goal to be achieved, otherwise it will be postponed indefinitely
 
 *PURE*
   - **P**ositively formulated: A positive formulation increases motivation to reach it. Use "I will reduce bugs by 50% instead of "My code will be less buggy"
@@ -58,7 +94,7 @@ Goals are an essential leadership tool (and of course also a self-improvement to
 ## Understanding myself
 
 ### The Dunning-Krueger effect
-This is not really a tool but it is worthwile knowing about. This effect describes a cognitive bias where people with lower ability in a certain field overestimate their performance or ability. In practice, you can see that whenever someone starts learning about a topic and very soon thinks he/she is already an expert and speaks very confidently about the topic and might already also convince you of their expertise.
+This is not really a tool but it is worthwhile knowing about. This effect describes a cognitive bias where people with lower ability in a certain field overestimate their performance or ability. In practice, you can see that whenever someone starts learning about a topic and very soon thinks he/she is already an expert and speaks very confidently about the topic and might already also convince you of their expertise.
 
 In a leadership role, this can often happen to you in job interviews where you have to judge the skill level of someone. So be aware that in some cases you have to doubt a confident person a bit and ask deeper to uncover true expertise in a topic. Be aware that this person is not trying to trick you but it is a misconception of their own skills. This also does not mean that this person is a no-hire. You just need to be aware that some additional personal and skill development will be required.
 
@@ -101,7 +137,7 @@ There is a similar technique with a barometer (from flying low to flying high) o
 For in-person meetings, I prefer to use "Take a stand" where participants do not draw, but you use the whole room as scale and people have to stand up and go to the corresponding spot in the room. This works as a nice energizer e.g., to start a retrospective or to get people moving in a lame meeting.
 
 *Variation: The role barometer*
-You can use the same method to make a quick checkin on how the team sees a certain person performing a role. E.g., make a quick team lead barometer to see if they are happy with your team lead function. This can be done regularily within retrospectives. If there are clusters on the mid-low end, you should employ a dedicated feedback method to find out where you can improve.
+You can use the same method to make a quick check-in on how the team sees a certain person performing a role. E.g., make a quick team lead barometer to see if they are happy with your team lead function. This can be done regularily within retrospectives. If there are clusters on the mid-low end, you should employ a dedicated feedback method to find out where you can improve.
 
 **see also:**\
 [Retromat entry for "Temperature gauge"](https://retromat.org/en/?id=22)\
@@ -186,7 +222,7 @@ Putting a critical view on the own doing is a core ability for evolving in any k
 
 ### [Weizenbaum, Joseph. *Computer power and human reason: From judgment to calculation.* (1976).](books/weizenbaum1976computerpower.md)
 
-Joseph Weizenbaum developed the Eliza chat system. In course of its evaluation, he made some shocking discoverings on how people thought, this software could be used. From those experiences, he grew to become a very famous technology critic pledging for more impact assessments of technology. 
+Joseph Weizenbaum developed the Eliza chat system. In course of its evaluation, he made some shocking discoveries on how people thought, this software could be used. From those experiences, he grew to become a very famous technology critic pledging for more impact assessments of technology. 
 
 
 # Media
@@ -198,7 +234,7 @@ Luke Hohmann on [innovation games](https://www.infoq.com/presentations/innovatio
 
 ## Leadership by Simon Sinek 
 ### Leaders eat last
-Simon Sinek's [video version](https://www.youtube.com/watch?v=ReRcHdeUG9Y) of the "Leaders eat last" book mentioned above. Very detailed and watchworthy. 
+Simon Sinek's [video version](https://www.youtube.com/watch?v=ReRcHdeUG9Y) of the "Leaders eat last" book mentioned above. Very detailed and watch-worthy. 
 
 Here is a [video version](https://www.youtube.com/watch?v=_osKgFwKoDQ) of the "Infinity game", a follow-up work of his.
 
