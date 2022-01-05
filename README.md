@@ -35,7 +35,6 @@
 - [Media](#media)
   - [Klaus Leopold and business agility](#klaus-leopold-and-business-agility)
   - [Leadership by Simon Sinek](#leadership-by-simon-sinek)
-    - [Leaders eat last](#leaders-eat-last)
 
 # Introduction
 Leadership is a crucial element in successful organizations.
@@ -64,7 +63,10 @@ The classic tool of prioritizing tasks. It helps you to find out what to do with
 The bottom left quadrant is tasks that are neither important nor urgent - those can either go straight into the trash (Don't do) or be delayed until they become either urgent or important. Tasks on the bottom right are urgent but not important - those can easily be delegated. The top left has tasks that are important but not urgent - make a commitment for those to do them at a certain point in future. Finally, the top right tasks are urgent and important -  make them your current prio one and do them immediately. 
 
 ### SWOT analysis
-coming soon
+This is a classic tool of structuring strategic thinking. You look at Strengths, Weaknesses, Opportunities and Threats of an organization and from that extract a strategy.
+I will not go into much details as this is well-known and there is so much literature out there.
+
+You can use SWOT with your team or organization as a checkpoint in strategic development to update your self-understanding and identify blindspots and future action items.
 
 ### Goals: SMART, PURE, CLEAR
 Goals are an essential leadership tool (and of course also a self-improvement tool). However, we tend to formulate goals too fuzzy to be effective. Here are three sets of assessment criteria for effective goals.
@@ -233,7 +235,7 @@ Luke Hohmann on [innovation games](https://www.infoq.com/presentations/innovatio
 [Ship building](https://www.youtube.com/watch?app=desktop&v=iIc9ttGurUo&feature=youtu.be) is a very nice activity for your team or other group of people to visualize and experience how flow of work in a system can change with the rules in the system. Klaus Leopold has moderated this session, it also gives enough background for you to try it out with your team. You will learn that work-in-progress limits and other simple rules greatly improve your value delivery. 
 
 ## Leadership by Simon Sinek 
-### Leaders eat last
+
 Simon Sinek's [video version](https://www.youtube.com/watch?v=ReRcHdeUG9Y) of the "Leaders eat last" book mentioned above. Very detailed and watch-worthy. 
 
 Here is a [video version](https://www.youtube.com/watch?v=_osKgFwKoDQ) of the "Infinity game", a follow-up work of his.

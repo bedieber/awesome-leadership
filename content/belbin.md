@@ -90,7 +90,8 @@ Once known, the roles your team members have can quickly explain a lot of the so
 ### Assessment
 To assess the team role, typically an assessment form is used. This can be filled out as a self-test and there are also methods to make an external assessment.
 
-         Since Belbin material is copyrighted, the assessment form cannot be provided here. The Belbin Association provides online questionnaires for the team role assessment. Also a web search may reveal a Belbin Team Role Test.
+         Since Belbin material is copyrighted, the assessment form cannot be provided here. The Belbin Association provides online questionnaires for the team role assessment. 
+         Also a web search may reveal a Belbin Team Role Test.
 
 The team role questionnaire asks to assess the behavior of someone (self or external) in several specific situations with multiple options. From the sum of all situations, the team role test will result in a weighting with respect to each team role for that person (e.g., 2 points for specialist, 5 points for plant, 15 points for co-ordinator, ...). The distribution of points can either show distinctive peaks in some few roles or a broader range of roles with similar points. In very exceptional cases, the result may be one big peak in just one role.
 
@@ -123,11 +124,10 @@ You can also actively counter natural conflicts by considering sensible pairings
 
 
 # Further reading
-[The Belbin Association](https://belbin.com) provides education, consultation and online assessment tools to find out and work with team roles.
-
-Reoyo Rodriguez, Ana Maria and López Canas, Roberto and Lucha Martinez, Vanesa, Meredith Belbin Team Roles and Modes of Conflict Behaviour: A Study in Work Teams from the Basque Country Organizations (June 1, 2005). Available at SSRN: https://ssrn.com/abstract=736185 or http://dx.doi.org/10.2139/ssrn.736185
-
 Belbin, R. Meredith "Management teams." Routledge, 2010.
 
 Belbin, R. Meredith "Team roles at work." Routledge, 2012.
 
+[The Belbin Association](https://belbin.com) provides education, consultation and online assessment tools to find out and work with team roles.
+
+Reoyo Rodriguez, Ana Maria and López Canas, Roberto and Lucha Martinez, Vanesa, Meredith Belbin Team Roles and Modes of Conflict Behaviour: A Study in Work Teams from the Basque Country Organizations (June 1, 2005). Available at SSRN: https://ssrn.com/abstract=736185 or http://dx.doi.org/10.2139/ssrn.736185
