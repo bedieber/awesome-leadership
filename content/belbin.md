@@ -83,22 +83,22 @@ Very single-minded to their expertise topic. Contributions are done with enthusi
 
 ## How do I make use of team roles?
 
-        Note: this is how I use it, there are surely other ways :)
+> Note: this is how I use it, there are surely other ways :)
 
 Once known, the roles your team members have can quickly explain a lot of the social dynamics in your team. You might have constant conflicts between detail-oriented and progress-oriented people. Or you see in some metrics that velocity in the team declines when a certain person is on holiday (or the other way around). Team roles can give you an indication to where this comes from and what you can do to improve the team in that matter. 
 
 ### Assessment
 To assess the team role, typically an assessment form is used. This can be filled out as a self-test and there are also methods to make an external assessment.
 
-         Since Belbin material is copyrighted, the assessment form cannot be provided here. The Belbin Association provides online questionnaires for the team role assessment. 
-         Also a web search may reveal a Belbin Team Role Test.
+>Since Belbin material is copyrighted, the assessment form cannot be provided here. The Belbin Association provides online questionnaires for the team role assessment. \
+Also a web search may reveal a Belbin Team Role Test form.
 
 The team role questionnaire asks to assess the behavior of someone (self or external) in several specific situations with multiple options. From the sum of all situations, the team role test will result in a weighting with respect to each team role for that person (e.g., 2 points for specialist, 5 points for plant, 15 points for co-ordinator, ...). The distribution of points can either show distinctive peaks in some few roles or a broader range of roles with similar points. In very exceptional cases, the result may be one big peak in just one role.
 
 Once the result is in, you should already see if it matches what you know of yourself or the person being tested. Typically, the picture painted by the test also reflects the experiences in the daily life.
 
 ### Team development and recruiting
-If you have the results for your whole team, it makes sense to visualize it. Typically a spidernet diagram of all nine team roles and the cumulative some of all role scores makes sense. If you have peaks or valleys in there, this can be used to discuss in the team what may be lacking, how this can be seen in the daily work and how to improve the situation.
+If you have the results for your whole team, it makes sense to visualize it. Typically a radar/spider chart of all nine team roles and the cumulative some of all role scores makes sense. If you have peaks or valleys in there, this can be used to discuss in the team what may be lacking, how this can be seen in the daily work and how to improve the situation.
 
 Also the knowledge about the individual roles of your teammates can be used as a friction-avoidance mechanism (see below).
 
