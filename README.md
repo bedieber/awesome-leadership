@@ -195,7 +195,7 @@ For the books in German language, I try to provide corresponding English literat
 Coming soon
 
 ### (German) [Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](books/aschenbrenner2020theboss.md)
-Coming soon
+This book teaches some important basics of leadership and is a great read if you are just starting or want to refresh. Contents are illustrated using Bruce Springsteen's work in leading the E-Street Band and the corporation behind it. 
 
 ### [Sinek, Simon *Leaders eat last: Why some teams pull together and others don't*. Penguin (2014).](books/sinek2014leaderseatlast.md)
 Coming soon
