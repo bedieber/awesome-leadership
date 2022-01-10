@@ -1,4 +1,4 @@
-    This is very much work in progress as of Jan2022
+  >This is very much work in progress as of Jan2022
 
 - [Introduction](#introduction)
 - [Methods and tools](#methods-and-tools)
@@ -21,11 +21,15 @@
   - [Tool resources](#tool-resources)
 - [Literature](#literature)
   - [Leadership softskills](#leadership-softskills)
-  - [(German) Jenewein, Wolfgang. *Warum unsere Chefs plötzlich so nett zu uns sind*. Ecowin (2018).](#german-jenewein-wolfgang-warum-unsere-chefs-plötzlich-so-nett-zu-uns-sind-ecowin-2018)
-    - [Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](#aschenbrenner-peter-the-boss---von-bruce-springsteen-führungsstärke-lernen-wiley-2020)
+    - [(German) Jenewein, Wolfgang. *Warum unsere Chefs plötzlich so nett zu uns sind*. Ecowin (2018).](#german-jenewein-wolfgang-warum-unsere-chefs-plötzlich-so-nett-zu-uns-sind-ecowin-2018)
+    - [(German) Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](#german-aschenbrenner-peter-the-boss---von-bruce-springsteen-führungsstärke-lernen-wiley-2020)
     - [Sinek, Simon *Leaders eat last: Why some teams pull together and others don't*. Penguin (2014).](#sinek-simon-leaders-eat-last-why-some-teams-pull-together-and-others-dont-penguin-2014)
+    - [Owen, Jo. *Myths of leadership: Banish the misconceptions and become a great leader.* Kogan Page Publishers, 2017.](#owen-jo-myths-of-leadership-banish-the-misconceptions-and-become-a-great-leader-kogan-page-publishers-2017)
   - [Books on leadership tools](#books-on-leadership-tools)
-    - [Krogerus & Tschäpeller](#krogerus--tschäpeller)
+    - [Krogerus & Tschäpeller - The decision book](#krogerus--tschäpeller---the-decision-book)
+    - [Leopold, Klaus, and Siegfried Kaltenecker. *Kanban change leadership: Creating a culture of continuous improvement.* John Wiley & Sons, 2015.](#leopold-klaus-and-siegfried-kaltenecker-kanban-change-leadership-creating-a-culture-of-continuous-improvement-john-wiley--sons-2015)
+    - [Leopold, Klaus. *Practical Kanban: From Team Focus to Creating Value.* LEANability, 2017.](#leopold-klaus-practical-kanban-from-team-focus-to-creating-value-leanability-2017)
+    - [Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing to Do with Business Agility. LEANability GmbH, 2018.](#leopold-klaus-rethinking-agile-why-agile-teams-have-nothing-to-do-with-business-agility-leanability-gmbh-2018)
     - [Meyer, Erin. *The culture map: Breaking through the invisible boundaries of global business*. Public Affairs, 2014.](#meyer-erin-the-culture-map-breaking-through-the-invisible-boundaries-of-global-business-public-affairs-2014)
     - [Hohmann, Luke. *Innovation games: creating breakthrough products through collaborative play*. Pearson Education, 2006.](#hohmann-luke-innovation-games-creating-breakthrough-products-through-collaborative-play-pearson-education-2006)
     - [(German) Steyrer, Johannes. *Die Macht der Manipulation - Wie man sich durchsetzt, wie man sich schützt*. Ecowin (2018).](#german-steyrer-johannes-die-macht-der-manipulation---wie-man-sich-durchsetzt-wie-man-sich-schützt-ecowin-2018)
@@ -175,11 +179,11 @@ In the lucky situation that you have a very skilled person who burns for the tas
 
 
 ## Tool resources
-[retromat](https://retromat.org)
 
-[funretrospectives](https://www.funretrospectives.com/)
+[Retromat](https://retromat.org) and [funretrospectives](https://www.funretrospectives.com/) are valuable collections of retrospective tools and how to use/moderate them. It can also auto-generate retrospective schedules but it is suggested to customize that to your retro's topic. The methods presented there are also very valuable outside of just retrospectives. Also if you are not designing retrospectives, it is very good to know those methods.
 
-[openpracticelibrary](https://openpracticelibrary.com/)
+[Open practice library](https://openpracticelibrary.com/): *The Open Practice Library is an open source, community-driven inspired library of best practices and tools.
+It helps individuals, teams and entire businesses figure out the optimal ways to get to the best outcome.* (Cited from their website, this describes it best.) Invaluable pool of resources to various topics that you will come across on your leadership journey, team work and business development. Most of it is licensed under creative commons and they are also open for contributions.
 
 # Literature
 In the following section, book cites are provided with links to detailed descriptions.\
@@ -187,24 +191,42 @@ For the books in German language, I try to provide corresponding English literat
 
 ## Leadership softskills
 
-## (German) Jenewein, Wolfgang. *Warum unsere Chefs plötzlich so nett zu uns sind*. Ecowin (2018).
+### (German) Jenewein, Wolfgang. *Warum unsere Chefs plötzlich so nett zu uns sind*. Ecowin (2018).
+Coming soon
 
-### [Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](books/aschenbrenner2020theboss.md)
-
+### (German) [Aschenbrenner, Peter *The Boss - Von Bruce Springsteen Führungsstärke lernen*. Wiley (2020).](books/aschenbrenner2020theboss.md)
+Coming soon
 
 ### [Sinek, Simon *Leaders eat last: Why some teams pull together and others don't*. Penguin (2014).](books/sinek2014leaderseatlast.md)
+Coming soon
 
+### Owen, Jo. *Myths of leadership: Banish the misconceptions and become a great leader.* Kogan Page Publishers, 2017.
+Coming soon
 
 ## Books on leadership tools
 The books listed here give you handy tools for your day-to-day leadership work. Mainly, those are tools for moderating (e.g., a retrospective or meeting) as well as decision facilitations for you and your team. I try to collect many of the tools also in the Methods and tools sections above individually. However, reading the books in addition is a good idea. 
 
-### Krogerus & Tschäpeller
+### Krogerus & Tschäpeller - The decision book
 These books (essentially the one book but in two editions and languages), contain a concise collection of very valuable tools. They are shortly explained, just enough for you to get a feeling how it works and look for more info in specialized literature (i.e., googling how to apply it :) ). Thus, I recommend this as a handy field guide for almost every situation.
 
 > (German) Krogerus, Mikael, and Roman Tschäppeler. *50 Erfolgsmodelle*. Kein & Aber (2015). \
 (English) Krogerus, Mikael, and Roman Tschäppeler. *The Decision Book: Fifty models for strategic thinking (New Edition)*. Profile Books (2017). [Google Books Link](https://books.google.at/books?hl=de&lr=&id=yqE9DgAAQBAJ&oi=fnd&pg=PT5&dq=M+Krogerus,+R+Tsch%C3%A4ppeler&ots=E9gOaUwudN&sig=n25cAYDyUoFIIQxJ1Jv3YWGShJY&redir_esc=y#v=onepage&q&f=false)\
 (German) Krogerus, Mikael, and Roman Tschäppeler. *Entscheiden*. Kein & Aber (2021).
 
+### Leopold, Klaus, and Siegfried Kaltenecker. *Kanban change leadership: Creating a culture of continuous improvement.* John Wiley & Sons, 2015.
+This book will teach you the essential mindset and practices of Kanban. It is not only useful for practicing Kanban but also to extend your agile mindset.
+
+> Also available in German: *Leopold, Klaus, and Siegfried Kaltenecker. Kanban in der IT: Eine Kultur der kontinuierlichen Verbesserung schaffen.* Carl Hanser Verlag GmbH Co KG, 2018.
+
+### Leopold, Klaus. *Practical Kanban: From Team Focus to Creating Value.* LEANability, 2017.
+This book gives more practical insights into practicing Kanban. It also talks about Kanban on different flight levels (above the team level) which - also aside from Kanban - is an important aspect of building succeeding agile organizations. The flight level we usually work on is the team level. Above that, there is the team coordination flight level which structures and manages the interactions between teams. On the top, there is the portfolio flight level where products and projects are managed and agilized. 
+
+> Also available in German: Leopold, Klaus. *Kanban in der Praxis: vom Teamfokus zur Wertschöpfung.* Carl Hanser Verlag GmbH Co KG, 2016.
+
+### Leopold, Klaus. Rethinking Agile: Why Agile Teams Have Nothing to Do with Business Agility. LEANability GmbH, 2018.
+This book is a highly recommended read for extending your agile mindset beyond just thinking in teams. It is the culminations of Klaus Leopold's experiences as consultant in various organization. The clear recommendation is to i) develop a holistic agile view for your organization and ii) not start an agile transition at the team level but as high as possible within your organization. Keep in mind that a successful organization is not the sum of its parts but the product of their interaction. Thus it is much more important to take care of team interactions first or even the portfolio management and then make the teams more agile.
+
+> Also available in German: Leopold, Klaus. Agilität neu denken: warum agile Teams nichts mit Business-Agilität zu tun haben. LEANability GmbH, 2018.
 
 ### [Meyer, Erin. *The culture map: Breaking through the invisible boundaries of global business*. Public Affairs, 2014.](books/meyer2014culturemap.md)
 The culture which we come from strongly influences how we act within a team. Especially if you are working with a cross-culture team, this book will give you very important tools to improve communication and generate value. 
@@ -214,6 +236,8 @@ This book will give you many valuable tools to improve your team and create valu
 
 ### (German) [Steyrer, Johannes. *Die Macht der Manipulation - Wie man sich durchsetzt, wie man sich schützt*. Ecowin (2018).](books/steyrer2018manipulation.md)
 **On the details page, I also list English literature from the book's references to give also non-German speakers an insight.** This book does not directly contain leadership tools. However, it shows some of the psychological tricks used in manipulation of people. If you are aware of those, you can prevent being manipulated and also protect your team from it. Still trying to find an adequate English book about then topic.
+
+
 
 
 ### Lipmanowicz, Henri, and Keith McCandless. *The surprising power of liberating structures: Simple rules to unleash a culture of innovation.* Seattle, WA: Liberating Structures Press, 2013.
@@ -232,7 +256,11 @@ Joseph Weizenbaum developed the Eliza chat system. In course of its evaluation, 
 Luke Hohmann on [innovation games](https://www.infoq.com/presentations/innovation-games/). See the associated book above. He talks about some of the games and a great story how this works even at the scale of a whole city.
 
 ## Klaus Leopold and business agility
+Klaus Leopold has started out in the Kanban area. Over the years he moved to a meta-view of agile methods working mainly in the field of flight levels. This way of thinking enables a more strategic, organization-optimization view on things.
+
 [Ship building](https://www.youtube.com/watch?app=desktop&v=iIc9ttGurUo&feature=youtu.be) is a very nice activity for your team or other group of people to visualize and experience how flow of work in a system can change with the rules in the system. Klaus Leopold has moderated this session, it also gives enough background for you to try it out with your team. You will learn that work-in-progress limits and other simple rules greatly improve your value delivery. 
+
+[Flight levels](https://www.youtube.com/watch?v=yBk0mYKL8f8) shows a case study on why agility is much more needed above the team level than in the teams itself. No matter how agile you make your teams, they need coordination and dependency management and the whole portfolio and project organization also needs to work agile in order to achieve true business agility. 
 
 ## Leadership by Simon Sinek 
 
