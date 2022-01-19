@@ -14,6 +14,7 @@
     - [Belbin team roles](#belbin-team-roles)
     - [The team thermometer / barometer](#the-team-thermometer--barometer)
   - [Improving others](#improving-others)
+    - [Daily stand-ups](#daily-stand-ups)
     - [De Bono Hats](#de-bono-hats)
     - [Build your own *role* (team lead, product owner, boss, leader, ...)](#build-your-own-role-team-lead-product-owner-boss-leader-)
     - [Show more of, show less of, keep doing](#show-more-of-show-less-of-keep-doing)
@@ -39,6 +40,7 @@
 - [Media](#media)
   - [Klaus Leopold and business agility](#klaus-leopold-and-business-agility)
   - [Leadership by Simon Sinek](#leadership-by-simon-sinek)
+  - [Improving daily stand-up meetings](#improving-daily-stand-up-meetings)
 
 # Introduction
 Leadership is a crucial element in successful organizations.
@@ -154,6 +156,19 @@ You can use the same method to make a quick check-in on how the team sees a cert
 ## Improving others
 This contains more action- and team-focused activities. However, there are also some general feedback techniques collected.
 
+### Daily stand-ups
+Daily stand-ups are very short meetings that drastically improve the (lateral) information flow in your team. In addition, they are very efficient.
+
+The "classic" agile stand-up is 15 minutes long and - as the name suggests - you do it while standing. This helps to keep the meeting short and get the energy flowing. Typically, this is done in the morning but you can schedule it to the liking of your team. In the round of all participants, everyone reports what they have been working on yesterday, what they plan for today and what current problems are. This way, you disseminate that info and you talk about problems that potentially someone else already has faced and knows a solution.
+
+For an improved stand-up format see the "Walk-the-board" method in the [Media](#Media) section.
+
+*Some hints:*\
+  - stand-ups need to be short - no prologued discussions, just identify what needs a follow-up meeting\
+  - stand-ups can not only be used within a fixed team - in the coordination of anything, regular stand-ups improve information flow and help to resolve dependencies and conflict. 
+  - make sure stand-ups are moderated, someone needs to keep track of time and prevent the team from getting off-track in discussions. This can be a fixed assignment or a rotating role
+  - try cross-team stand-ups to improve information flow between teams
+
 ### De Bono Hats
 coming soon
 
@@ -268,3 +283,9 @@ Simon Sinek's [video version](https://www.youtube.com/watch?v=ReRcHdeUG9Y) of th
 
 Here is a [video version](https://www.youtube.com/watch?v=_osKgFwKoDQ) of the "Infinity game", a follow-up work of his.
 
+## Improving daily stand-up meetings
+If you are already doing stand-up meetings: great! Did you know that you can even improve that using the walk-the-board method (also works if you don't have a board)? Have a look here:
+
+[Daily stand-up: You're doing it wrong](https://www.youtube.com/watch?v=H02BlTXpcto)
+
+[Agile stand-up - How to walk the Board](https://www.youtube.com/watch?v=316qdj10j9M)
