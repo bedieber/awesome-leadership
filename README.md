@@ -15,6 +15,7 @@
     - [The team thermometer / barometer](#the-team-thermometer--barometer)
   - [Improving others](#improving-others)
     - [Daily stand-ups](#daily-stand-ups)
+    - [Making decisions in a team](#making-decisions-in-a-team)
     - [De Bono Hats](#de-bono-hats)
     - [Build your own *role* (team lead, product owner, boss, leader, ...)](#build-your-own-role-team-lead-product-owner-boss-leader-)
     - [Show more of, show less of, keep doing](#show-more-of-show-less-of-keep-doing)
@@ -156,6 +157,7 @@ You can use the same method to make a quick check-in on how the team sees a cert
 ## Improving others
 This contains more action- and team-focused activities. However, there are also some general feedback techniques collected.
 
+
 ### Daily stand-ups
 Daily stand-ups are very short meetings that drastically improve the (lateral) information flow in your team. In addition, they are very efficient.
 
@@ -168,6 +170,10 @@ For an improved stand-up format see the "Walk-the-board" method in the [Media](#
   - stand-ups can not only be used within a fixed team - in the coordination of anything, regular stand-ups improve information flow and help to resolve dependencies and conflict. 
   - make sure stand-ups are moderated, someone needs to keep track of time and prevent the team from getting off-track in discussions. This can be a fixed assignment or a rotating role
   - try cross-team stand-ups to improve information flow between teams
+
+### Making decisions in a team
+Check [here](content/teamdecisions.md) for thoughts on how to facilitate decisions, make sure they are implemented and how to deal with resistance.
+
 
 ### De Bono Hats
 coming soon
