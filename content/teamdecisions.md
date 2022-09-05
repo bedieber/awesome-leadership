@@ -1,6 +1,6 @@
 # Setting directions in a team and following through with team decisions
 
- > This section is the result of the corresponding "Leadership Monthly" workshop with contributions of ...
+ > This section is the result of the corresponding "Leadership Monthly" workshop with contributions of Manuel Fasching, Cony Wiedenig, Thomas Grassauer, Giovanni Liva, Jörg Poecher, Bojan Dolinar, Peter Jelitsch, René Panzar, Heinz Burgstaller.
 
 Whenever a decision needs to be made, you have a broad range of options on how to make this decision. For some situations, it is appropriate to make decisions by yourself without consulting your team. For others, a co-operative or democratic approach, where your whole team decides, is the better way to go. Choosing the appropriate method and degree of team inclusion is of course also dependent on your personal leadership style. Typically, the more you include the team in a decision making process, the more the decision will receive commitment from the team.
 
