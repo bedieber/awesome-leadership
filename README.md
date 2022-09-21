@@ -16,6 +16,7 @@
   - [Improving others](#improving-others)
     - [Daily stand-ups](#daily-stand-ups)
     - [Making decisions in a team](#making-decisions-in-a-team)
+    - [Career development and setting personal goals](#career-development-and-setting-personal-goals)
     - [De Bono Hats](#de-bono-hats)
     - [Build your own *role* (team lead, product owner, boss, leader, ...)](#build-your-own-role-team-lead-product-owner-boss-leader-)
     - [Show more of, show less of, keep doing](#show-more-of-show-less-of-keep-doing)
@@ -174,6 +175,8 @@ For an improved stand-up format see the "Walk-the-board" method in the [Media](#
 ### Making decisions in a team
 Check [here](content/teamdecisions.md) for thoughts on how to facilitate decisions, make sure they are implemented and how to deal with resistance.
 
+### Career development and setting personal goals
+Check [here](content/careerDevelopment.md).
 
 ### De Bono Hats
 coming soon
