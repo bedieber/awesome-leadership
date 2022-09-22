@@ -1,6 +1,6 @@
 # Supporting your team members in their career development
 
- > This section is the result of the corresponding "Leadership Monthly" workshop with contributions of Manuel Fasching, Cony Wiedenig, Peter Jelitsch, René Panzar, Claudia Streussnig and Horst Pichler.
+ > This section is the result of the corresponding "Leadership Monthly" workshop with contributions of Manuel Fasching, Cony Wiedenig, Peter Jelitsch, René Panzar, Claudia Streussnig, Roland Wohlfahrt and Horst Pichler.
 
 An important part of a leadership role is to make sure your team members have the room to grow and develop. Coming up with an adequate vision and specific goals for someone is not always straightforward.
 Jointly defining a career vision and defining personal development goals can have a multitude of effects. First and most importantly, it opens up opportunities for your team member to reflect and think of a development perspective. Especially younger colleagues might not be used to this way of thinking. Second, it is a motivating experience if done right. Third, in a larger team context, this process can help to develop a healthier knowledge and skill landscape. 
