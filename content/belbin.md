@@ -1,7 +1,5 @@
 # Belbin team roles
 
-
-
 Each team has its own dynamics that also change with every new member in the team. Everyone of us naturally takes a specific role in the team in terms of behavior and functions. Meredith Belbin has invested several decades into researching the optimal combination of characters to form a perfect, high-performing team.\
 Currently, the Belbin team role model defines nine core roles that people take over (in three categories).
 
@@ -85,25 +83,21 @@ Very single-minded to their expertise topic. Contributions are done with enthusi
 
 > Note: this is how I use it, there are surely other ways :)
 
-Once known, the roles your team members have can quickly explain a lot of the social dynamics in your team. You might have constant conflicts between detail-oriented and progress-oriented people. Or you see in some metrics that velocity in the team declines when a certain person is on holiday (or the other way around). Team roles can give you an indication to where this comes from and what you can do to improve the team in that matter. 
+Once known, the roles your team members have can quickly explain a lot of the behavioural dynamics in your team. You might have constant conflicts between detail-oriented and progress-oriented people. Or you see in some metrics that velocity in the team declines when a certain person is on holiday (or the other way around). Team roles can give you an indication to where this comes from and what you can do to improve the team in that matter. 
 
 ### Assessment
 Belbin provides the only true assessment tool on their website. It uses a self-perception inventory along with observer assessments to ensure validity of your tests. This gives you an extensive personal report and can be used in team assessments.
 There are ripoff self-assessments to be found in the internet. However, I discourage their use since they do not include observer asssessments and they are using absolute scores instead of a ranking within a statistical population. 
 
 ### Team development and recruiting
-If you have the results for your whole team, there are multiple (often retrospective-like) workshops you can have with your team. The key question is how you can reinforce your strengths and contain your weaknesses. 
+If you have the results for your whole team, there are multiple (often retrospective-like) workshops you can have with your team. The key question is how you can reinforce your strengths and contain your weaknesses. Keep in mind that diversity in team roles is key and that the strengths of one role can compensate the weakness of others. 
 
 Also the knowledge about the individual roles of your teammates can be used as a friction-avoidance mechanism (see below).
-
-You as the leader of the team can also make use of this knowledge. First, it is useful in recruiting. Some use a team role test in the recruiting process. However, this is tedious for the candidate without direct profit for them. In addition, a non-matching team role assessment is often not a good reason to decline a candidate. But it can be used to find suitable teams or in identifying development needs with a new candidate. Also the team can be prepared before the new hire starts. You can also estimate the team role of candidates from their answers in an interview (if you ask the right questions). But be careful as this is not very accurate. 
-
-Second, knowing the team role distribution can be used to further develop the team. Individuals can be identified with potential for certain technical or organizational roles like product owners or future leadership candidates. Team roles can also be useful as guide in assembling new teams. 
 
 ### Personal development
 If you have only made the test for yourself, you can use it to reflect if you want to improve in areas where you have low points or if you want to extend the peak in a specific role. In any case, it gives you an indication how you behave in team situations and where you will have natural conflicts with others (see below).
 
-If you make this test with your team individuals, you can develop strategies for their further personal development. If they want to be in a leadership role but lack co-ordinator points, they can try to improve their by consciously acting like a co-ordinator in certain situations. However, keep in mind that not everybody is made to be everything in life thus, some may have trouble working strongly against their character.
+If you make this test with your team individuals, you can develop strategies for their further personal development. If they go for a leadership role (or any other for that matter), the test can give an indication in what aspects of the function role the person will naturally have an easy or hard time.
 
 ### Reducing friction
 One huge benefit of the team role assessment is that it raises awareness of natural conflicts that certain roles have with each other. From the descriptions of the roles, some can easily be seen. As an example, a role that pushes forward like the Shaper, Resource Investigator or Plant can feel hindered by very detail-oriented roles like Specialists or Finishers. In turn, they may feel disregarded or be annoyed by the missing attention to detail.
