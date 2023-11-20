@@ -88,17 +88,11 @@ Very single-minded to their expertise topic. Contributions are done with enthusi
 Once known, the roles your team members have can quickly explain a lot of the social dynamics in your team. You might have constant conflicts between detail-oriented and progress-oriented people. Or you see in some metrics that velocity in the team declines when a certain person is on holiday (or the other way around). Team roles can give you an indication to where this comes from and what you can do to improve the team in that matter. 
 
 ### Assessment
-To assess the team role, typically an assessment form is used. This can be filled out as a self-test and there are also methods to make an external assessment.
-
->Since Belbin material is copyrighted, the assessment form cannot be provided here. The Belbin Association provides online questionnaires for the team role assessment. \
-Also a web search may reveal a Belbin Team Role Test form.
-
-The team role questionnaire asks to assess the behavior of someone (self or external) in several specific situations with multiple options. From the sum of all situations, the team role test will result in a weighting with respect to each team role for that person (e.g., 2 points for specialist, 5 points for plant, 15 points for co-ordinator, ...). The distribution of points can either show distinctive peaks in some few roles or a broader range of roles with similar points. In very exceptional cases, the result may be one big peak in just one role.
-
-Once the result is in, you should already see if it matches what you know of yourself or the person being tested. Typically, the picture painted by the test also reflects the experiences in the daily life.
+Belbin provides the only true assessment tool on their website. It uses a self-perception inventory along with observer assessments to ensure validity of your tests. This gives you an extensive personal report and can be used in team assessments.
+There are ripoff self-assessments to be found in the internet. However, I discourage their use since they do not include observer asssessments and they are using absolute scores instead of a ranking within a statistical population. 
 
 ### Team development and recruiting
-If you have the results for your whole team, it makes sense to visualize it. Typically a radar/spider chart of all nine team roles and the cumulative some of all role scores makes sense. If you have peaks or valleys in there, this can be used to discuss in the team what may be lacking, how this can be seen in the daily work and how to improve the situation.
+If you have the results for your whole team, there are multiple (often retrospective-like) workshops you can have with your team. The key question is how you can reinforce your strengths and contain your weaknesses. 
 
 Also the knowledge about the individual roles of your teammates can be used as a friction-avoidance mechanism (see below).
 
